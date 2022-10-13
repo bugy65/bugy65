@@ -23,9 +23,7 @@ Spring
 
 Desde pequeño soy fanático de la tecnología, la programación y el diseño audiovisual (este último teniendo más de 8 años de experiencia) me considero una persona que se adapta bien al entorno y al equipo, además siempre busco continuar puliendo mis habilidades y adquirir nuevos conocimientos
 
-puedes contactarme en:
-https://www.linkedin.com/in/valentino-arena/
-valentinoarenacontacto@gmail.com
+
 </p
 ⠀
     </main>
